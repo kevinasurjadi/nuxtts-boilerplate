@@ -9,6 +9,7 @@
     "generate": "nuxt-ts generate"
   },
   "dependencies": {
+    "@nuxt/http": "^0.5.10",
     "@nuxt/typescript-runtime": "^1.0.0",
     "nuxt": "^2.14.0"
   },

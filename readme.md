@@ -46,6 +46,8 @@ $ yarn build && yarn start
 
 ### Dependencies
 
+- [Nuxt HTTP Module](https://http.nuxtjs.org/)
+
 ### Resources
 
 - [Vue.js Guide](https://vuejs.org/v2/guide/)
