@@ -27,6 +27,9 @@ $ make run
 
 // to run storybook
 $ make storybook
+
+// to run unit test
+$ make test
 ```
 
 #### Manual
@@ -48,12 +51,16 @@ $ yarn build && yarn start
 
 // to run storybook
 $ yarn storybook
+
+// to run unit test
+$ yarn test
 ```
 
 ### Dependencies
 
 - [Nuxt HTTP Module](https://http.nuxtjs.org/)
 - [NuxtJS Storybook](https://storybook.nuxtjs.org/)
+- [Jest](https://jestjs.io/)
 
 ### Resources
 
